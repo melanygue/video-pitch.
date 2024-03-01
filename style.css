@@ -1,0 +1,12 @@
+body{background-color: brown;
+/*background-color es para color de fondo*/}
+h1{background-color: aquamarine; 
+color: black;/*color es para aplicar color al texto*/
+}
+h2{
+    font-size: 20px;
+    background-color: blueviolet;
+    color: rgb(5, 5, 5));
+} 
+i{color: darksalmon;}
+
